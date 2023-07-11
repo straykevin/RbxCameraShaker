@@ -1,0 +1,7 @@
+[package]
+name = "kkham/rbxcamerashaker"
+version = "0.1.0"
+registry = "https://github.com/straykevin/wally-index"
+realm = "shared"
+
+[dependencies]
